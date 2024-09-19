@@ -1,5 +1,5 @@
 # KWAK YOUNG RAN
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngran99)](https://solved.ac/youngran99/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qazwsx12)](https://solved.ac/qazwsx12/)
 - 👋 Hi, I’m @youngran99
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
